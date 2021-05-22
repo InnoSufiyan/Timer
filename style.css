@@ -1,0 +1,30 @@
+body {
+    background-color: Black;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+h1 {
+    background-color: white;
+    color:black;
+    width: 300px;
+    display: inline-block;
+}
+
+.container {
+    /* width: 500px; */
+    display: flex;
+    justify-content: center;
+    /* margin: 100px; */
+}
+
+h2 {
+    color:  black;
+    background-color: white;
+    text-align: center;
+    margin: 20px;
+    width: 100px;
+    
+}
